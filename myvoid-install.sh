@@ -13,7 +13,7 @@ google-fonts-ttf libidn-32bit libidn2-32bit libstdc++-32bit libuuid-32bit \
 gstreamer1-32bit gst-plugins-good1-32bit gst-plugins-base1-32bit \
 gst-plugins-bad1-32bit gst-plugins-ugly1-32bit libopenal-32bit \
 alsa-plugins-pulseaudio alsa-plugins-pulseaudio-32bit firefox xz xarchiver \
-glu butt steam tumbler
+glu butt steam tumbler gnome-keyring
 
 git clone https://github.com/geany/geany-themes
 cd geany-themes && ./install.sh
