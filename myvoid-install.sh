@@ -17,7 +17,7 @@ gst-plugins-bad1-32bit gst-plugins-ugly1-32bit audacity mtools dosfstools \
 alsa-plugins-pulseaudio alsa-plugins-pulseaudio-32bit firefox xz xarchiver \
 glu butt steam tumbler gnome-keyring geany geany-plugins gnome-calculator \
 keepassxc flameshot obs xfwm4-themes gtk-layer-shell libimobiledevice \
-upower libcanberra-gtk3   
+upower libcanberra-gtk3 thunar-volman
 
 git clone https://github.com/geany/geany-themes
 cd geany-themes && ./install.sh
