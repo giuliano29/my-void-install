@@ -3,7 +3,7 @@
 sudo xbps-install -S void-repo-nonfree void-repo-multilib void-repo-multilib-nonfree
 sudo xbps-install -Su
 sudo xbps-install -Svy bash-completion  \
-xorg ufw xfce4 xfce4-plugin terminology xfce4-sensors-plugin gparted  \
+xorg ufw xfce4 xfce4-plugins terminology xfce4-sensors-plugin gparted  \
 thunar-archive-plugin xdg-user-dirs xz unzip lightdm mousepad  \
 ristretto parole network-manager-applet NetworkManager-openvpn pulseaudio  \
 alsa-utils flatpak amdvlk amdvlk-32bit mesa-dri mesa-dri-32bit  \
