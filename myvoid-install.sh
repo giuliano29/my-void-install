@@ -16,13 +16,18 @@ gnome-calculator keepassxc flameshot obs gtk-layer-shell libimobiledevice upower
 thunar-volman ntp rsyslogd
 
 git clone https://github.com/geany/geany-themes
-cd geany-themes && ./install.sh
+cd ~/geany-themes && ./install.sh
 
 git clone https://github.com/FSKiller/Microsoft-Fonts
 mv Microsoft-Fonts ~/.fonts
 
 git clone https://github.com/linuxmint/mint-y-icons
 mv  mint-y-icons/usr/share/icons/ ~/.icons
+
+git clone https://github.com/vinceliuice/WhiteSur-gtk-theme
+cd ~/WhiteSur-gtk-theme/
+./install.sh -l
+
 
 sudo usermod -aG network giuliano
 sudo usermod -aG lightdm giuliano
