@@ -5,7 +5,7 @@ sudo xbps-install -Su
 sudo xbps-install -Svy bash-completion  \
 xorg ufw xfce4 xfce4-plugins terminology xfce4-sensors-plugin thunar-archive-plugin  \
 xdg-user-dirs xz unzip lightdm gparted ristretto parole network-manager-applet  \
-NetworkManager-openvpn pulseaudio alsa-utils flatpak amdvlk amdvlk-32bit mesa-dri  \ 
+NetworkManager-openvpn pulseaudio alsa-utils flatpak amdvlk amdvlk-32bit mesa-dri  \
 mesa-dri-32bit mesa-vulkan-radeon mesa-vulkan-radeon-32bit vulkan-loader vulkan-loader-32bit  \
 zlib gimp apparmor htop gnome-themes-standard curl git wget nano libidn-32bit libidn2-32bit  \
 libstdc++-32bit libuuid-32bit udiskie exfatprogs gstreamer1-32bit gst-plugins-good1-32bit  \
