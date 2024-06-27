@@ -1,6 +1,7 @@
 #!/bin/bash
 
 sudo xbps-install -S void-repo-nonfree void-repo-multilib void-repo-multilib-nonfree
+sudo xbps-install -Su
 sudo xbps-install -Svy bash-completion  \
 xorg ufw xfce4 xfce4-plugin terminology xfce4-sensors-plugin gparted  \
 thunar-archive-plugin xdg-user-dirs xz unzip lightdm mousepad  \
